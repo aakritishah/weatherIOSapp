@@ -1,6 +1,5 @@
-=======
 iOS weather app:
-=======
+-------
 - features:
     - Google Places API for places suggestions for user location input
     - IP Info API for current location detection
